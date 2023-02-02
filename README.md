@@ -13,13 +13,11 @@ STAKEHOLDERS:		FMCC
 
 EXPECTED START DATE:	January 31st, 2023 
 
-EXPECTED COMPLETION:	February 8th, 2023 
-DATE
+EXPECTED COMPLETION:	February 8th, 2023
 				
 MILESTONES:		finish planning, write code
 
 ESTIMATED COSTS:	4 million dollars
-& RESOURCES
 
 Story:                Our product greets the customer and makes them feel wanted and happy in society.
                       This is scientifically proven to cure clinical depression. 
